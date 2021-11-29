@@ -116,6 +116,9 @@ a:hover{
     margin-left: 20px;
     color: yellow;
 }
+.icon{
+    margin-top: 10px;
+}
 .banner{
     margin-top: 150px;
     background-image: url(https://code.edu.az/media/settings/02.jpg);
