@@ -141,8 +141,8 @@ a:hover{
     font-size: 32px;
     font-weight: 700;
     text-align: center;
-    padding: 0 50px;
-    margin: 0 auto;
+    padding: 13px 50px;
+    margin: -5px auto;
 }
 .banner .information .h3.bold .number{
     font-weight: 900;
@@ -152,20 +152,6 @@ a:hover{
 .up{
     margin-top: -10px;
     border: 4px solid black;
-}
-.navvar{
-    display: flex;
-    background-color: white;
-}
-.icon{
-    display: flex;
-}
-ul{
-    text-decoration: none;
-    display: flex;
-}
-li{
-    text-decoration: none;
 }
 .partnyorInfo{
     text-align: center;
@@ -177,4 +163,7 @@ li{
 }
 .gelecek .decoration{
     text-decoration:underline;
+}
+.FirstCon{
+    margin-top: 60px;
 }
